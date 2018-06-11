@@ -2,6 +2,11 @@
 
 ## Javascript
 ***
+### Resume-API
+Resume-API is a tool being developed using Node.js and Express.js to help individuals create beautiful resumes. Through the use of templating, an individual can customize each resume to look different ways and contain different content based on the current need. The API will eventually be paired with a website and mobile app to help make the tool more accessible to everyone.
+
+[Source](https://github.com/jonathanmcdaniel/resume-api)
+
 ### JMImageManipulator
 A javascript class to manage basic image manipulation in a modularized container. Resizing the dimensions of an image to fit a contraint while maintaining the aspect ratio is the main function of this class. Rotation is also supported for both clockwise and counter-clockwise movements. The class uses the HTML5 canvas to achieve its goals. The class creates and destroys the canvas as needed so that no additional work or cleanup is required by the developer.
 
